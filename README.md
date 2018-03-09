@@ -1,5 +1,5 @@
 # Rp WC custom logout redirect 
-A WordPress plugin which enables you to redirect users on logout in a simplest way.
+A WordPress plugin which enables you to redirect Woocommerce users on logout in a simplest way.
 
 **Contributors:**      [rahulppatidar] <https://github.com/rahulppatidar/>  
 **Plugin Name:**       Rp woo custom logout redirect 
@@ -24,7 +24,7 @@ This plugin adds extra submenu in Woocommerce (Woocommerce > Custom logout), for
 * Not extra menu option, in the WordPress site. Just head over to Woocommerce > Custom logout
 
 ##Installation
-1. Upload `Login-and-Logout-Redirect` folder to your `/wp-content/plugins/` directory.
+1. Upload `Rp-woo-custom-logout-redirect` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin from Admin > Plugins menu.
 3. Once activated you should check with Woocommerce > Custom logout
 4. Insert URL for redirect on logout.
