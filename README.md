@@ -4,7 +4,7 @@ A WordPress plugin which enables you to redirect Woocommerce users on logout in 
 **Contributors:**      [rahulppatidar] <https://github.com/rahulppatidar/>  
 **Plugin Name:**       Rp woo custom logout redirect 
     
-**Tags:**              redirect,logout,logout redirect,redirect on logout, WC logout, Woo Logout, Woocommerce logout   
+**Tags:**              redirect,logout,logout redirect,redirect on logout, WC logout, Woo Logout, Woocommerce logout
 **Author:**            rahulppatidar  
 **License:**           GPL-3.0+ 		
 **License URI:**       https://www.gnu.org/licenses/gpl-3.0.en.html 			
